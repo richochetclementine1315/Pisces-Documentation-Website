@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://richochetclementine1315.github.io/Pisces-Documentation-Website/sitemap.xml
